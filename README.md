@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **olorunsholamatins@gmail.com**
 
-- 📄 Know about my experiences [https://resume-theta-blue.vercel.app/](https://resume-theta-blue.vercel.app/)
+<!-- - 📄 Know about my experiences https://docs.google.com/document/d/1djpFoGfedDzhfj_dt4yyo7mKxDU8Z-BohIJmLL8xkEg/edit?usp=sharing -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
