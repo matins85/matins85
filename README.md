@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matins85&label=Profile%20views&color=0e75b6&style=flat" alt="matins85" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matins85" alt="matins85" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/matins85" target="blank"><img src="https://img.shields.io/twitter/follow/matins85?logo=twitter&style=for-the-badge" alt="matins85" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Django, Angular**
